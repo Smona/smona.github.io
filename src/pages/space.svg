@@ -79,28 +79,6 @@
          offset="1"
          id="stop4544" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="PlanetSurface">
-      <stop
-         style="stop-color:#374548;stop-opacity:1;"
-         offset="0"
-         id="stop4522" />
-      <stop
-         style="stop-color:#37483e;stop-opacity:1"
-         offset="1"
-         id="stop4524" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#PlanetSurface"
-       id="linearGradient4528"
-       x1="-431.88599"
-       y1="324.59225"
-       x2="950.75085"
-       y2="324.59225"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(24.946429,-16.630952)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#Space"
@@ -579,9 +557,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="1394.0145"
-     inkscape:cy="69.18887"
+     inkscape:zoom="0.5"
+     inkscape:cx="840.7232"
+     inkscape:cy="229.20158"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -644,7 +622,7 @@
        cy="307.9613"
        rx="691.31842"
        ry="74.461311"
-       style="fill:url(#linearGradient4528);fill-opacity:1;stroke-width:0.3469682" />
+       style="fill:#374548;fill-opacity:1;stroke-width:0.3469682" />
     <g
        id="g4684"
        transform="matrix(0.34910218,0,0,0.34910218,187.91823,141.08254)">

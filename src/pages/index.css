@@ -1,0 +1,14 @@
+#hero {
+  /* height: 100vh; */
+  position: relative;
+  overflow: hidden;
+}
+#hero img {
+  margin: 0;
+}
+
+.hero__content {
+  position: absolute;
+  top: 10vw;
+  left: 20vw;
+}
